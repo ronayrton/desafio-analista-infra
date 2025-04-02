@@ -1,4 +1,4 @@
-# Etapa 2 - Teste Prático para Analista de Infra
+# Etapa 2 - Tarefa: Execute a atividade da Etapa 1 em um cluster kubernetes
 
 ## Objetivo
 Nesta etapa, a aplicação Jenkins foi implantada em um cluster Kubernetes local utilizando o Kind (Kubernetes in Docker).
