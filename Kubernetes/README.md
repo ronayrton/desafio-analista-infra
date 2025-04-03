@@ -61,8 +61,6 @@ spec:
 Após criar os arquivos YAML, eles foram aplicados ao cluster com os seguintes comandos:
 ```bash
 kubectl apply -f jenkins-deployment.yaml
-kubectl apply -f jenkins-service.yaml
-```
 
 ### 4. Verificando se o Pod foi Criado
 Para garantir que o Jenkins estava rodando corretamente:
